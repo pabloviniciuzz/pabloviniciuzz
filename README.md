@@ -1,8 +1,9 @@
-- 👋 Hello, I’m Pablo Vinicius.
-- 👀 I’m interested in Movies, Games and Dev.
-- 🌱 I’m currently learning the basic, a newbie student.
-- 💞️ I’m looking to collaborate on bootcamps for newbies.
-- 📫 How to reach me pabloviniciusjob@gmail.com
+- 👋 Hello, my name is Pablo Vinicius.
+- 👀 I’m interested in Data Science projects and Machine Learning models.
+- 🌱 I’m currently learning how to use Pandas to analyse datasets.
+- 💞️ I’m looking to collaborate on bootcamps for newbies and portfolios projects.
+- 📫 How to reach me pablovinicius77@gmail.com
+- 👓 My LinkedIn is https://www.linkedin.com/in/pabloviniciuzz/ send a invite and let's talk! 
 
 <!---
 pabloviniciuzz/pabloviniciuzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
