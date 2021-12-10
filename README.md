@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Pablo. I'm a undergraduate degree student in Information Systems at Mackenzie University based in São Paulo, Brazil.
+- 👋 Hello! I'm a undergraduate degree student in Information Systems at Mackenzie University based in São Paulo, Brazil.
 - 👀 I’m interested in Data Science projects and Machine Learning models.
 - 🌱 I’m currently learning how to use Pandas to analyse datasets.
 - 💞️ I’m looking to collaborate on bootcamps for newbies and portfolios projects.
