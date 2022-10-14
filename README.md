@@ -1,7 +1,7 @@
 - 👋 Hello! I'm a undergraduate degree student in Information Systems at Mackenzie University based in São Paulo, Brazil.
 - 👀 I’m interested in Data Science and Machine Learning projects.
-- 🌱 I’m currently learning how to use Pandas to analyse datasets.
-- 💞️ I’m looking to collaborate on bootcamps for newbies and portfolios projects.
+- 🌱 I’m currently learning how to use Machine Learning models to analyse the results with a statistical base.
+- 💞️ I’m looking to collaborate on bootcamps and hackathons and portfolios projects.
 - 📫 How to reach me pablovinicius77@gmail.com
 - 👓 My LinkedIn is https://www.linkedin.com/in/pabloviniciuzz/ send a invite and let's talk! 
 
