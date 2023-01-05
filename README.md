@@ -4,7 +4,7 @@ My name is Pablo Vinicius Arruda
 Data Science and Machine Learning
 ---------------------------------
 
-I started learning about data science in 2021 during the pandemic, before that I was a filmmaker, I've always been passionate about cinema and audiovisual. I decided to drop out of radio and television college, which I was halfway through, after becoming intensely interested in data and machine learning, after reading an article that related mass communication with addressable algorithms. I am currently majoring in Information Systems at Universidade Presbiteriana Mackenzie, in São Paulo, ending in 2024. If you want to get in touch with me, go to my LinkedIn.
+I started learning about data science in 2021 during the pandemic, before that I was a filmmaker, I've always been passionate about cinema and audiovisual. I decided to drop out of radio and television college, which I was halfway through, after becoming intensely interested in data and machine learning, after reading an article that related mass communication with addressable algorithms. I am currently majoring in Information Systems at Universidade Presbiteriana Mackenzie, in São Paulo, ending in 2024. If you want to contact me, go to my LinkedIn.
 
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio at [Medium](https://medium.com/@pabloviniciuzz)
