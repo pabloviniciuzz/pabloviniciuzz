@@ -1,4 +1,4 @@
-My name is Pablo Vinicius Arruda
+Pablo Vinicius Arruda
 =============================================================================================================================================
 
 Data Science and Machine Learning
@@ -12,7 +12,7 @@ I started learning about data science in 2021 during the pandemic, before that I
 * 🚀  I'm currently working on [Hyundai Capital Bank](http://www.hyundaicapitalbrasil.com/)
 * 🧠  I'm learning Django and Flask
 * 🤝  I'm open to collaborating on Hackathons and Free Projects
-* ⚡  My favorite movie is An American Werewolf in London and my biggest fear is werewolves.
+* ⚡  My favorite movie is An American Werewolf in London and my biggest fear is... werewolves.
 
 <a href="https://www.github.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pabloviniciuzz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img
