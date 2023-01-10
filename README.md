@@ -14,13 +14,7 @@ I started learning about data science in 2021 during the pandemic, before that I
 * 🤝  I'm open to collaborating on Hackathons and Free Projects
 * ⚡  My favorite movie is An American Werewolf in London and my biggest fear is... werewolves.
 
-<a href="https://www.github.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pabloviniciuzz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/pabloviniciuzz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -37,7 +31,6 @@ src="https://img.shields.io/twitter/follow/pabloviniciuzz?logo=twitter&style=for
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
-
 
 ### Socials
 
