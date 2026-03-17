@@ -38,6 +38,7 @@ The through-line hasn't changed: understanding how information shapes decisions 
 > Collaborative research and projects in AI and data science at university level.
 
 **CX Analyst** · Mercado Livre *(Jun 2021 – Feb 2023)*
+> Mercado Pago bank operations.
 
 ---
 
