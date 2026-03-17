@@ -1,45 +1,83 @@
-Pablo Arruda
-=============================================================================================================================================
+<div align="center">
 
-Data Product & Innovation
----------------------------------
+# Pablo Arruda
+### Data Product & Innovation · São Paulo, Brazil
 
-I started learning about data science in 2021 during the pandemic, before that I was a filmmaker, I've always been passionate about cinema and audiovisual. I decided to drop out of radio and television college, which I was halfway through, after becoming intensely interested in data and machine learning, after reading an article that related mass communication with addressable algorithms. I am currently majoring in Information Systems at Universidade Presbiteriana Mackenzie, in São Paulo, ending in 2024. If you want to contact me, go to my LinkedIn.
+*From storytelling to data — connecting human narratives with machine intelligence.*
 
-* 🌍  I'm based in São Paulo, Brazil
-* 🖥️  See my portfolio at [Medium](https://medium.com/@pabloviniciuzz)
-* ✉️  You can contact me at [pabloviniciuzz@icloud.com](mailto:pabloviniciuzz@icloud.com)
-* 🚀  I'm currently working on [Hyundai Capital Bank](http://www.hyundaicapitalbrasil.com/)
-* 🧠  I'm learning Django and Flask
-* 🤝  I'm open to collaborating on Hackathons and Free Projects
-* ⚡  My favorite movie is An American Werewolf in London and my biggest fear is... werewolves.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloviniciuzz)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pabloviniciuzz)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://www.dev.to/pabloviniciuzz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/pabloviniciuzz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pabloviniciuzz@icloud.com)
 
-### Skills
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-</p>
+---
 
-### Socials
+## About
 
-<p align="left"> <a href="https://www.dev.to/pabloviniciuzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pabloviniciuzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/pabloviniciuzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pabloviniciuzz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I came from cinema — spent years thinking about how stories move people. Then I read an article connecting mass communication with addressable algorithms, and everything shifted.
 
-### Badges
+I left a Radio & Television degree halfway through and redirected toward data and machine learning. Today I work at **[Hyundai Capital Bank Brasil](http://www.hyundaicapitalbrasil.com/)** on Data Product & Innovation, and I'm finishing my **B.Sc. in Information Systems at Universidade Presbiteriana Mackenzie** (São Paulo).
 
-<b>My GitHub Stats</b>
+The through-line hasn't changed: understanding how information shapes decisions — whether through a film frame or a predictive model.
 
-<a href="http://www.github.com/pabloviniciuzz"><img src="https://github-readme-stats.vercel.app/api?username=pabloviniciuzz&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pabloviniciuzz's GitHub stats" /></a>
+---
 
-<a href="https://github.com/pabloviniciuzz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloviniciuzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Experience
+
+**Data Product & Innovation** · Hyundai Capital Bank Brasil *(current)*
+> Working at the intersection of financial products and data strategy, building solutions that connect data capabilities with business outcomes.
+
+---
+
+## Technical Skills
+
+**Data & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pabloviniciuzz&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloviniciuzz&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## Open to
+
+- 🤝 Hackathons and collaborative open-source projects
+- 💬 Conversations about data products, ML applications, or the unlikely overlap between cinema and algorithms
+
+---
+
+<div align="center">
+<sub>⚡ Favorite film: <em>An American Werewolf in London</em> · Biggest fear: werewolves.</sub>
+</div>
