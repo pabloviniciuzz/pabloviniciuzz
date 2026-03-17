@@ -19,7 +19,7 @@
 
 I came from cinema — spent years thinking about how stories move people. Then I read an article connecting mass communication with addressable algorithms, and everything shifted.
 
-I left a Radio & Television degree halfway through and redirected toward data and machine learning. Today I work as a **Data Scientist at Hyundai Capital Bank Brasil**, focusing on Data Science & Automation, MLOps, and predictive modeling. I'm finishing my **B.Sc. in Information Systems at Universidade Presbiteriana Mackenzie** (São Paulo, 2026).
+I change my professional goals and redirected toward data and machine learning. Today I work as a **Data Scientist at Hyundai Capital Bank Brasil**, focusing on Data Science & Automation, MLOps, and predictive modeling. I'm finishing my **B.Sc. in Information Systems at Universidade Presbiteriana Mackenzie** (São Paulo, 2026).
 
 The through-line hasn't changed: understanding how information shapes decisions — whether through a film frame or a predictive model.
 
