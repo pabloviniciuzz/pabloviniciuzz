@@ -1,4 +1,4 @@
-Pablo Vinicius Arruda
+Pablo Arruda
 =============================================================================================================================================
 
 Data Product & Innovation
@@ -8,7 +8,7 @@ I started learning about data science in 2021 during the pandemic, before that I
 
 * 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio at [Medium](https://medium.com/@pabloviniciuzz)
-* ✉️  You can contact me at [pabloviniciusjob@gmail.com](mailto:pabloviniciusjob@gmail.com)
+* ✉️  You can contact me at [pabloviniciuzz@icloud.com](mailto:pabloviniciuzz@icloud.com)
 * 🚀  I'm currently working on [Hyundai Capital Bank](http://www.hyundaicapitalbrasil.com/)
 * 🧠  I'm learning Django and Flask
 * 🤝  I'm open to collaborating on Hackathons and Free Projects
