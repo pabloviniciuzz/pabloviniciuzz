@@ -1,7 +1,7 @@
 Pablo Vinicius Arruda
 =============================================================================================================================================
 
-Data Science and Machine Learning
+Data Product & Innovation
 ---------------------------------
 
 I started learning about data science in 2021 during the pandemic, before that I was a filmmaker, I've always been passionate about cinema and audiovisual. I decided to drop out of radio and television college, which I was halfway through, after becoming intensely interested in data and machine learning, after reading an article that related mass communication with addressable algorithms. I am currently majoring in Information Systems at Universidade Presbiteriana Mackenzie, in São Paulo, ending in 2024. If you want to contact me, go to my LinkedIn.
@@ -43,7 +43,3 @@ I started learning about data science in 2021 during the pandemic, before that I
 <a href="http://www.github.com/pabloviniciuzz"><img src="https://github-readme-stats.vercel.app/api?username=pabloviniciuzz&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pabloviniciuzz's GitHub stats" /></a>
 
 <a href="https://github.com/pabloviniciuzz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloviniciuzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/pabloviniciuzz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
