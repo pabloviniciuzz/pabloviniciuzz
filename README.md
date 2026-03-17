@@ -1,7 +1,7 @@
 <div align="center">
 
 # Pablo Arruda
-### Data Product & Innovation · São Paulo, Brazil
+### Data Scientist & Innovation · São Paulo, Brazil
 
 *From storytelling to data — connecting human narratives with machine intelligence.*
 
@@ -19,7 +19,7 @@
 
 I came from cinema — spent years thinking about how stories move people. Then I read an article connecting mass communication with addressable algorithms, and everything shifted.
 
-I left a Radio & Television degree halfway through and redirected toward data and machine learning. Today I work at **[Hyundai Capital Bank Brasil](http://www.hyundaicapitalbrasil.com/)** on Data Product & Innovation, and I'm finishing my **B.Sc. in Information Systems at Universidade Presbiteriana Mackenzie** (São Paulo).
+I left a Radio & Television degree halfway through and redirected toward data and machine learning. Today I work as a **Data Scientist at Hyundai Capital Bank Brasil**, focusing on Data Science & Automation, MLOps, and predictive modeling. I'm finishing my **B.Sc. in Information Systems at Universidade Presbiteriana Mackenzie** (São Paulo, 2026).
 
 The through-line hasn't changed: understanding how information shapes decisions — whether through a film frame or a predictive model.
 
@@ -27,16 +27,29 @@ The through-line hasn't changed: understanding how information shapes decisions 
 
 ## Experience
 
-**Data Product & Innovation** · Hyundai Capital Bank Brasil *(current)*
-> Working at the intersection of financial products and data strategy, building solutions that connect data capabilities with business outcomes.
+**Data Scientist** · Hyundai Capital Bank Brasil *(Jun 2025 – present)*
+> Data Science & Automation — MLOps, data modeling, and predictive solutions.
+
+**Data Analyst** · Hyundai Capital Bank Brasil *(Apr 2023 – Aug 2025 · 2 yrs 5 mo)*
+> Sales and Operations Planning — data science, modeling, and cross-functional analytics.
+
+**Data Scientist Intern** · Hyundai Capital Bank Brasil *(Jun 2022 – Mar 2023 · 10 mo)*
+> S&OP team — Power BI dashboards, data organization, and early ML work.
+
+**AI & Data Science League Member** · LAE IA&CD · Mackenzie *(Apr 2022 – Oct 2024)*
+> Collaborative research and projects in AI and data science at university level.
+
+**CX Analyst** · Mercado Livre *(Jun 2021 – Feb 2023)*
 
 ---
 
 ## Technical Skills
 
-**Data & ML**
+**Data Science & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=flat-square&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -50,13 +63,29 @@ The through-line hasn't changed: understanding how information shapes decisions 
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+
+---
+
+## Education
+
+**B.Sc. Information Systems** · Universidade Presbiteriana Mackenzie *(2022 – 2026)*
+
+**Data Science** · Awari *(2021 – 2022)*
+> Intensive technical program covering SQL, statistical modeling, and neural networks.
+
+---
+
+## Languages
+
+🇺🇸 English — Advanced &nbsp;|&nbsp; 🇧🇷 Portuguese — Native
 
 ---
 
@@ -74,7 +103,7 @@ The through-line hasn't changed: understanding how information shapes decisions 
 ## Open to
 
 - 🤝 Hackathons and collaborative open-source projects
-- 💬 Conversations about data products, ML applications, or the unlikely overlap between cinema and algorithms
+- 💬 Conversations about data products, MLOps, or the unlikely overlap between cinema and algorithms
 
 ---
 
